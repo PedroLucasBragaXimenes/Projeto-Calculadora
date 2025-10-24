@@ -8,4 +8,5 @@ Funcionalidades:
 
 -Atualização dinâmica do display usando JavaScript
 
- Link para página web: https://pedrolucasbragaximenes.github.io/Projeto-Calculadora/
+🔗 Acesse o projeto aqui:
+ https://pedrolucasbragaximenes.github.io/Projeto-Calculadora/
